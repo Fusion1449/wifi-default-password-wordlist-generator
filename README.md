@@ -22,7 +22,7 @@ This script generates a wordlist based on default WiFi passwords used by some IS
 1. **Clone this repository:**  
 
    ```bash
-   git clone https://github.com/your-username/wifi-default-password-wordlist-generator.git](https://github.com/Fusion1449/wifi-default-password-wordlist-generator/
+   git clone https://github.com/Fusion1449/wifi-default-password-wordlist-generator/
    ```  
 
 2. **Install Python** (if not already installed):  
