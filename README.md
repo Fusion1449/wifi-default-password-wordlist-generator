@@ -40,6 +40,7 @@ This script generates a wordlist based on default WiFi passwords used by some IS
 4. **Provide Input:**  
    - Select the ISP (Vivo or Claro) when prompted.  
    - Provide the required information (MAC address for Vivo or network name for Claro).  
+![image](https://github.com/user-attachments/assets/f42d4099-7b99-4228-a3ef-6f9abf74da87)
 
 5. **Wordlist Output:**  
    - A wordlist file will be created: `wordlist_vivo.txt` for Vivo or `wordlist_claro.txt` for Claro.  
